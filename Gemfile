@@ -13,6 +13,8 @@ gem 'sqlite3'
 gem 'puma', '~> 3.7'
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
+gem 'search_object', '1.2.0'
+gem 'search_object_graphql', '0.1'
 # gem 'therubyracer', platforms: :ruby
 gem 'coffee-rails', '~> 4.2'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
